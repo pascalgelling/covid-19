@@ -8,7 +8,7 @@ Ik vroeg me af of het misschien nuttig zou zijn om een patient sigarettenrook - 
 
 Ik hoor graag van u of dit interessant is en als hierdoor actie wordt ondernomen ten behoeve van het onderzoek.
 
-
+## Translated version (may be inaccurate!)
 
 I may have an interesting research question for my research against the Corona virus.
 
