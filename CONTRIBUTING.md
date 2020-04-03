@@ -10,7 +10,7 @@ To do this: You can fork the repository, add your thoughts, and then submit a pu
 
 For more information about forking and pull requests, see: https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork
 
-The preferred way of communication is English. But if you're not sufficient in this, please still submit your ideas and add the label `needs-translation`! Other contributors
+The preferred way of communication is English. But if you feel your English is not fluent enough, please still submit your ideas and add the label `needs-translation`! Other contributors
 that happen to speak the same language will probably be glad to translate it for you. This is an open-source and community driven project. We are all in this together!
 
 
