@@ -12,3 +12,11 @@ For more information about forking and pull requests, see: https://help.github.c
 
 The preferred way of communication is English. But if you're not sufficient in this, please still submit your ideas and add the label `needs-translation`! Other contributors
 that happen to speak the same language will probably be glad to translate it for you. This is an open-source and community driven project. We are all in this together!
+
+
+### Please do not:
+- Share already widely known information, that does not help the cause of patching/mitigating the
+effects (unless requesting to add to the title: `Effective mitigation practices:`);
+- Be rude against eachother. It is okay to dissagree with someone, but please do so in a polite
+and constructive manner;
+- Other obvious things that are not helpful in any way, shape or form.

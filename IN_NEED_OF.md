@@ -25,10 +25,4 @@ Not all VALID and CONFIRMED information is available in this repository YET. Ple
 summary in the `README.md` if you which to contribute. Do not forget to add links and other relevant
 information so your claims are verifiable!
 
-### Please do not:
-- Share already widely known information, that does not help the cause of patching/mitigating the
-effects;
-- Be rude against eachother. It is okay to dissagree with someone, but please do so in a polite
-and constructive manner;
-- Other obvious things that are not helpful in any way, shape or form.
 
