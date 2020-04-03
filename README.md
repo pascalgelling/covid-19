@@ -10,8 +10,8 @@ Ik hoor graag van u of dit interessant is en als hierdoor actie wordt ondernomen
 
 ## Translated version (may be inaccurate!)
 
-I may have an interesting research question for my research against the Corona virus.
+I may have an interesting research question for the research against the Corona virus.
 
-I was wondering if it would be helpful to give a patient cigarette smoke - or artificial smoke containing the substances it contains? This is because these substances are known to break down body cells and possibly also the virus cells.
+I was wondering if it would be helpful to provide a patient cigarette smoke - or artificial smoke containing the substances it contains- As it is known these substances are known to break down body cells and possibly also the virus cells.
 
 I would like to hear from you if this is interesting and if action is taken for the benefit of the investigation.
