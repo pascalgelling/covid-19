@@ -6,3 +6,7 @@ Please read the `CONTRIBUTING.md` and `IN_NEED_OF.md` files before submitting yo
 
 - 
 
+
+# Effective mitigation practices:
+
+-
